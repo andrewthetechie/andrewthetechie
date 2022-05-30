@@ -1,6 +1,9 @@
 ### <div align="center">I'm Andrew, an Infrastructure Engineer who pretends to be a Software Engineer</div>  
   
 
+<details>
+  <summary>More...</summary>
+  <br />
 - 🔭 I’m currently working on [pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis) and a [Datadog Provider for Cloudquery](https://github.com/andrewthetechie/cq-provider-datadog).  
   
 
@@ -46,7 +49,6 @@
 </tr></table>  
 
 <br/> 
-<td>
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#153](https://github.com/andrewthetechie/pydantic-aioredis/issues/153) in [andrewthetechie/pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
@@ -57,3 +59,6 @@
 <!--END_SECTION:activity-->
 
 <br />
+
+</details>
+
