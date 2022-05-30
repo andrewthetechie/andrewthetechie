@@ -47,8 +47,7 @@
 </tr></table>  
 
 <br/> 
-## Recent Activity
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <br />
 
