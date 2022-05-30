@@ -6,8 +6,8 @@
   <summary>More...</summary>
   <br />
     <ul>
-        <li>🔭 I’m currently working on [pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis) and a [Datadog Provider for Cloudquery](https://github.com/andrewthetechie/cq-provider-datadog).</li>
-        <li>🌱 I’m currently learning more about [Cloudquery](https://www.cloudquery.io/) and [AWS Serverless](https://aws.amazon.com/serverless/sam/).</li>
+        <li>🔭 I’m currently working on <a href="https://github.com/andrewthetechie/pydantic-aioredis" target=_blank>pydantic-aioredis</a> and a <a href="https://github.com/andrewthetechie/cq-provider-datadog" target=_blank>Datadog Provider for Cloudquery</a>.</li>
+        <li>🌱 I’m currently learning more about <a href="https://www.cloudquery.io/" target=_blank>Cloudquery</a> and <a href="https://aws.amazon.com/serverless/sam/" target=_blank>AWS Serverless</a>.</li>
         <li>❓ Ask me about anything related to scaling and automating your cloud infrastructure.  </li>
     </ul>
 
