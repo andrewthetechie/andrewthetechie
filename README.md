@@ -42,12 +42,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewthetechie&hide_border=true&layout=compact" align="left" />
 
-</td></tr></table>  
+</td>
+<td>
+<p> Recent Activity</p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</td>
+</tr></table>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+<br/> 
 
 <br />
