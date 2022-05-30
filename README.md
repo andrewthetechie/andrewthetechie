@@ -4,14 +4,11 @@
 <details>
   <summary>More...</summary>
   <br />
-- 🔭 I’m currently working on [pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis) and a [Datadog Provider for Cloudquery](https://github.com/andrewthetechie/cq-provider-datadog).  
-  
-
-- 🌱 I’m currently learning more about [Cloudquery](https://www.cloudquery.io/) and [AWS Serverless](https://aws.amazon.com/serverless/sam/).  
-  
-
-- ❓ Ask me about anything related to scaling and automating your cloud infrastructure.  
-  
+    <ul>
+        <li>🔭 I’m currently working on [pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis) and a [Datadog Provider for Cloudquery](https://github.com/andrewthetechie/cq-provider-datadog).</li>
+        <li>🌱 I’m currently learning more about [Cloudquery](https://www.cloudquery.io/) and [AWS Serverless](https://aws.amazon.com/serverless/sam/).</li>
+        <li>❓ Ask me about anything related to scaling and automating your cloud infrastructure.  </li>
+    </ul>
 
 <br/>  
 
@@ -49,14 +46,8 @@
 </tr></table>  
 
 <br/> 
-### Recent Activity
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#153](https://github.com/andrewthetechie/pydantic-aioredis/issues/153) in [andrewthetechie/pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
-2. 🗣 Commented on [#153](https://github.com/andrewthetechie/pydantic-aioredis/issues/153) in [andrewthetechie/pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
-3. 🎉 Merged PR [#168](https://github.com/andrewthetechie/pydantic-aioredis/pull/168) in [andrewthetechie/pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
-4. 💪 Opened PR [#168](https://github.com/andrewthetechie/pydantic-aioredis/pull/168) in [andrewthetechie/pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
-5. 🎉 Merged PR [#167](https://github.com/andrewthetechie/pydantic-aioredis/pull/167) in [andrewthetechie/pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
-<!--END_SECTION:activity-->
+## Recent Activity
+
 
 <br />
 
