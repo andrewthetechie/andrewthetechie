@@ -43,8 +43,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewthetechie&hide_border=true&layout=compact" align="left" />
 
 </td>
+</tr></table>  
+
+<br/> 
 <td>
-<p> Recent Activity</p>
+### Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#153](https://github.com/andrewthetechie/pydantic-aioredis/issues/153) in [andrewthetechie/pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
 2. 🗣 Commented on [#153](https://github.com/andrewthetechie/pydantic-aioredis/issues/153) in [andrewthetechie/pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
@@ -52,9 +55,5 @@
 4. 💪 Opened PR [#168](https://github.com/andrewthetechie/pydantic-aioredis/pull/168) in [andrewthetechie/pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
 5. 🎉 Merged PR [#167](https://github.com/andrewthetechie/pydantic-aioredis/pull/167) in [andrewthetechie/pydantic-aioredis](https://github.com/andrewthetechie/pydantic-aioredis)
 <!--END_SECTION:activity-->
-</td>
-</tr></table>  
-
-<br/> 
 
 <br />
