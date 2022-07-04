@@ -1,4 +1,4 @@
-### <div align="center">I'm Andrew, an Infrastructure Engineer who pretends to be a Software Engineer</div>  
+### <div align="center">I'm Andrew, an Infrastructure Engineer who writes software</div>  
   
 <p>I work for Autodesk Construction Cloud building platforms and automation to deliver secure, managed infrastructure to our developers.</p>
 
