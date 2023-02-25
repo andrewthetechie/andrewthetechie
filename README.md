@@ -6,7 +6,7 @@
   <summary>More...</summary>
   <br />
     <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/andrewthetechie/pydantic-aioredis" target=_blank>pydantic-aioredis</a> and a <a href="https://github.com/andrewthetechie/cq-provider-datadog" target=_blank>Datadog Provider for Cloudquery</a> and some Github Actions: <a href="https://github.com/marketplace/actions/yaml-repo-manager" target=_blank>Yaml Repo Manager</a>,  <a href="https://github.com/marketplace/actions/clone-github-releases" target=_blank>Clone Github Releases</a>, and <a href="https://github.com/marketplace/actions/cookiecutter-in-github-actions" target=_blank>Cookiecutter in Github Actions</a></li>
+        <li>🔭 I’m currently working on <a href="https://github.com/andrewthetechie/pydantic-aioredis" target=_blank>pydantic-aioredis</a>, <a href="https://github.com/andrewthetechie/pydantic-sqs" target=_blank>pydantic-sqs</a> and some Github Actions: <a href="https://github.com/marketplace/actions/yaml-repo-manager" target=_blank>Yaml Repo Manager</a>,  <a href="https://github.com/marketplace/actions/clone-github-releases" target=_blank>Clone Github Releases</a>, and <a href="https://github.com/marketplace/actions/cookiecutter-in-github-actions" target=_blank>Cookiecutter in Github Actions</a></li>
         <li>🌱 I’m currently learning more about <a href="https://www.cloudquery.io/" target=_blank>Cloudquery</a> and <a href="https://aws.amazon.com/serverless/sam/" target=_blank>AWS Serverless</a>.</li>
         <li>❓ Ask me about anything related to scaling and automating your cloud infrastructure.  </li>
     </ul>
