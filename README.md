@@ -1,12 +1,14 @@
 ### <div align="center">I'm Andrew, an Infrastructure Engineer who writes software</div>  
   
-<p>I'm a Senior Infrastructure Engineer at Autodesk Construction Cloud, where I build platforms and automation to deliver secure managed infrastructure to developers. When I'm not working, I enjoy writing open source code in Python and Rust. I have a passion for technology and innovation, and am committed to designing and implementing efficient and scalable systems that meet the unique needs of developers.</p>
+<p>I'm a Senior Infrastructure Engineer at Autodesk Construction Cloud, where I build platforms and automation to deliver secure managed infrastructure to developers. When I'm not working, I enjoy writing open-source code in Python and Rust. I have a passion for technology and innovation and am committed to designing and implementing efficient and scalable systems that meet the unique needs of developers.</p>
+
+<p>I am also an amateur radio operator and enjoy writing software for other operators. I'm currently working on APRS and <a href="https://cats.radio" target=_blank>CATS</a>.</p>
 
 <details>
   <summary>More...</summary>
   <br />
     <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/andrewthetechie/pydantic-aioredis" target=_blank>pydantic-aioredis</a>, <a href="https://github.com/andrewthetechie/pydantic-sqs" target=_blank>pydantic-sqs</a> and some Github Actions: <a href="https://github.com/marketplace/actions/yaml-repo-manager" target=_blank>Yaml Repo Manager</a>,  <a href="https://github.com/marketplace/actions/clone-github-releases" target=_blank>Clone Github Releases</a>, and <a href="https://github.com/marketplace/actions/cookiecutter-in-github-actions" target=_blank>Cookiecutter in Github Actions</a></li>
+        <li>🔭 I’m currently working on <a href="https://github.com/andrewthetechie/err-aprs-backend" target=_blank>err-aprs-backend</a>, <a href="https://github.com/andrewthetechie/err-discord-bridge" target=_blank>err-discord-bridge</a>a>, and <a href="https://github.com/andrewthetechie/pydantic-aioredis" target=_blank>pydantic-aioredis</a> and some Github Actions: <a href="https://github.com/marketplace/actions/yaml-repo-manager" target=_blank>Yaml Repo Manager</a>,  <a href="https://github.com/marketplace/actions/clone-github-releases" target=_blank>Clone Github Releases</a>, and <a href="https://github.com/marketplace/actions/cookiecutter-in-github-actions" target=_blank>Cookiecutter in Github Actions</a></li>
         <li>🌱 I’m currently learning more about <a href="https://www.cloudquery.io/" target=_blank>Cloudquery</a> and <a href="https://aws.amazon.com/serverless/sam/" target=_blank>AWS Serverless</a>.</li>
         <li>❓ Ask me about anything related to scaling and automating your cloud infrastructure.  </li>
     </ul>
