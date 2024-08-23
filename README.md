@@ -9,7 +9,7 @@
   <br />
     <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/andrewthetechie/err-aprs-backend" target=_blank>err-aprs-backend</a>, <a href="https://github.com/andrewthetechie/err-discord-bridge" target=_blank>err-discord-bridge</a>a>, and <a href="https://github.com/andrewthetechie/pydantic-aioredis" target=_blank>pydantic-aioredis</a> and some Github Actions: <a href="https://github.com/marketplace/actions/yaml-repo-manager" target=_blank>Yaml Repo Manager</a>,  <a href="https://github.com/marketplace/actions/clone-github-releases" target=_blank>Clone Github Releases</a>, and <a href="https://github.com/marketplace/actions/cookiecutter-in-github-actions" target=_blank>Cookiecutter in Github Actions</a></li>
-        <li>🌱 I’m currently learning more about <a href="https://www.cloudquery.io/" target=_blank>Cloudquery</a> and <a href="https://aws.amazon.com/serverless/sam/" target=_blank>AWS Serverless</a>.</li>
+        <li>🌱 I’m currently learning more about <a href="https://wasi.dev/" target=_blank>WASI</a> and <a href="https://esphome.io/" target=_blank>ESPHome</a>.</li>
         <li>❓ Ask me about anything related to scaling and automating your cloud infrastructure.  </li>
     </ul>
 
