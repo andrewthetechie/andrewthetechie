@@ -40,12 +40,12 @@
   <tr>
     <td valign="top" width="33%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=andrewthetechie&show_icons=true&count_private=true&hide_border=true" align="center" />
+        <img src="./profile/stats.svg" align="center" />
       </div>
     </td>
     <td valign="top" width="33%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewthetechie&hide_border=true&layout=compact" align="center" />
+        <img src="./profile/top-langs.svg" align="center" />
       </div>
     </td>
     <td valign="top" width="33%">
