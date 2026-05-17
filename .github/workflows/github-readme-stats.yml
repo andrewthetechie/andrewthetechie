@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        token: ${{ secrets.THIS_PAT }}
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -17,7 +18,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.THIS_PAT }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -25,7 +26,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.THIS_PAT }}
 
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -33,7 +34,7 @@ jobs:
           card: pin
           options: username=readme-tools&repo=github-readme-stats
           path: profile/pin-readme-tools-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.THIS_PAT }}
 
       - name: Commit cards
         run: |
