@@ -9,9 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        token: ${{ secrets.THIS_PAT }}
-
+      - uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.THIS_PAT }}
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
