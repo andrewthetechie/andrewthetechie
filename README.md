@@ -1,17 +1,18 @@
-### <div align="center">I'm Andrew, an Infrastructure Engineer who writes software</div>  
-  
-<p>I'm a Senior Infrastructure Engineer at Autodesk Construction Cloud, where I build platforms and automation to deliver secure managed infrastructure to developers. When I'm not working, I enjoy writing open-source code in Python and Rust. I have a passion for technology and innovation and am committed to designing and implementing efficient and scalable systems that meet the unique needs of developers.</p>
+### <div align="center">I'm Andrew, an AI Infrastructure Engineer who enjoys building systems.</div>
 
-<p>I am also an amateur radio operator and enjoy writing software for other operators. I'm currently working on APRS and <a href="https://cats.radio" target=_blank>CATS</a>.</p>
+<p> I'm an AI Infrastructure Engineer at NVIDIA, where I build platforms and infrastructure that help developers run AI workloads at scale. My background is in cloud infrastructure, distributed systems, and platform engineering, with a focus on building reliable systems that developers enjoy using. </p>
 
-<details>
-  <summary>More...</summary>
-  <br />
-    <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/andrewthetechie/err-aprs-backend" target=_blank>err-aprs-backend</a>, <a href="https://github.com/andrewthetechie/err-discord-bridge" target=_blank>err-discord-bridge</a>a>, and <a href="https://github.com/andrewthetechie/pydantic-aioredis" target=_blank>pydantic-aioredis</a> and some Github Actions: <a href="https://github.com/marketplace/actions/yaml-repo-manager" target=_blank>Yaml Repo Manager</a>,  <a href="https://github.com/marketplace/actions/clone-github-releases" target=_blank>Clone Github Releases</a>, and <a href="https://github.com/marketplace/actions/cookiecutter-in-github-actions" target=_blank>Cookiecutter in Github Actions</a></li>
-        <li>🌱 I’m currently learning more about <a href="https://wasi.dev/" target=_blank>WASI</a> and <a href="https://esphome.io/" target=_blank>ESPHome</a>.</li>
-        <li>❓ Ask me about anything related to scaling and automating your cloud infrastructure.  </li>
-    </ul>
+<p> Outside of work, I write open-source software, primarily in Rust and Python. Most of my projects revolve around infrastructure, developer tooling, distributed systems, self-hosting, and the occasional hardware experiment. </p>
+
+<p> I'm also an amateur radio operator and occasionally write software for the amateur radio community, particularly around APRS. </p>
+
+<details> <summary>More...</summary>
+
+<br />
+
+<ul> <li>I'm currently focused on local AI inference, agentic coding workflows, and infrastructure for running large language models.</li> <li>I spend most of my free time writing Rust, although I still reach for Python and TypeScript when they're the right tool for the job.</li> <li>I enjoy building infrastructure that is simple to operate, easy to automate, and pleasant for developers to work with.</li> <li>If you'd like to chat, ask me about Rust, Kubernetes, AI infrastructure, distributed systems, or homelab projects.</li> </ul>
+
+</details>
 
 <br/>  
 
