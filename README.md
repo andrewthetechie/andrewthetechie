@@ -1,4 +1,4 @@
-### <div align="center">I'm Andrew, an AI Infrastructure Engineer who enjoys building systems.</div>
+### <div align="center">I'm Andrew, an Infrastructure Engineer focused on AI.</div>
 
 <p> I'm an AI Infrastructure Engineer at NVIDIA, where I build platforms and infrastructure that help developers run AI workloads at scale. My background is in cloud infrastructure, distributed systems, and platform engineering, with a focus on building reliable systems that developers enjoy using. </p>
 <details> <summary>More...</summary>
@@ -16,18 +16,13 @@
 ## Connect with me  
 
 <div align="center">
-<a href="https://github.com/andrewthetechie" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://www.andrewherrington.com">
+  <img src="https://img.shields.io/badge/Andrew_Herrington-Blog_&_Projects-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://twitter.com/andrewthetechie" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="https://kg5jnc.com">
+  <img src="https://img.shields.io/badge/KG5JNC-Amateur_Radio-2E8B57?style=for-the-badge&logo=gnuradio&logoColor=white" />
 </a>
-<a href="https://dev.to/andrewthetechie" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/andrewthetechie" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 <br/>  
